@@ -1,0 +1,7 @@
+.venv/
+google_flight_scraper/__pycache__/
+google_flight_scraper/.env
+google_flight_scraper/decode_url.py
+google_flight_scraper/encode_url.py
+google_flight_scraper/flight_scraper_proxy.py
+google_flight_scraper/flight_scraper.py

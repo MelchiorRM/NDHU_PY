@@ -1,0 +1,20 @@
+Project Directory Structure:
+- .gitignore
+- path.txt
+- README.md
+- .venv/
+- Scripts/
+- google_flight_scraper/
+  - .env
+  - best_flight_prices.csv
+  - check_date.py
+  - clean.csv
+  - data_clean.py
+  - decode_url.py
+  - encode_url.py
+  - flight_scraper.py
+  - flight_scraper_proxy.py
+  - requirements.txt
+  - scraper.py
+  - update_missing_dates.py
+  - __pycache__/
