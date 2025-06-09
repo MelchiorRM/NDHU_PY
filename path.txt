@@ -1,10 +1,5 @@
 Project Directory Structure:
-- .gitignore
-- path.txt
-- README.md
-- .venv/
-- Scripts/
-- google_flight_scraper/
+- root/
   - .env
   - best_flight_prices.csv
   - check_date.py
@@ -17,4 +12,8 @@ Project Directory Structure:
   - requirements.txt
   - scraper.py
   - update_missing_dates.py
+  - visualization.ipynb
+  - path.txt
+  - README.md
+  - .gitignore
   - __pycache__/
